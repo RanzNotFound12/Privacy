@@ -1,4 +1,9 @@
 {
-  "password": "Ranz",
-  "user": "Ranz"
+  "secretCode": "Ranz",
+  "description": "PREMIUM KEY", 
+  "lastUpdated": "2025-04-04",
+  "author": "Hamz ", 
+  "status": "Active",
+  "license": "MIT",
+  "version": "1.0.0"
 }
